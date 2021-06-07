@@ -1,112 +1,112 @@
 [
 	[
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 8,
+		  "color": "#cdcdcd"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 2,
+		  "color": "#ffffff"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 1,
+		  "color": "#dddddd"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 7,
+		  "color": "#000000"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 4,
+		  "color": "#0cad0c"
 	  }
 	],
 	[
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 8,
+		  "color": "#cdcdcd"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 2,
+		  "color": "#ffffff"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 1,
+		  "color": "#dddddd"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 7,
+		  "color": "#000000"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 4,
+		  "color": "#0cad0c"
 	  }
 	],
 	[
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 8,
+		  "color": "#cdcdcd"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 2,
+		  "color": "#ffffff"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 1,
+		  "color": "#dddddd"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 7,
+		  "color": "#000000"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 4,
+		  "color": "#0cad0c"
 	  }
 	],
 	[
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 8,
+		  "color": "#cdcdcd"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 2,
+		  "color": "#ffffff"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 1,
+		  "color": "#dddddd"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 7,
+		  "color": "#000000"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 4,
+		  "color": "#0cad0c"
 	  }
 	],
 	[
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 8,
+		  "color": "#cdcdcd"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 2,
+		  "color": "#ffffff"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 1,
+		  "color": "#dddddd"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 7,
+		  "color": "#000000"
 	  },
 	  {
-		  "amount": 5,
-		  "color": "red"
+		  "amount": 4,
+		  "color": "#0cad0c"
 	  }
 	]
 ]
