@@ -1,5 +1,5 @@
-{
-	"list_1": {
+[
+	{
 	  "item_1": {
 		  "amount": 5,
 		  "color": "red"
@@ -21,7 +21,7 @@
 		  "color": "red"
 	  }
 	},
-	"list_2": {
+	{
 	  "item_1": {
 		  "amount": 5,
 		  "color": "red"
@@ -43,7 +43,7 @@
 		  "color": "red"
 	  }
 	},
-	"list_3": {
+	{
 	  "item_1": {
 		  "amount": 5,
 		  "color": "red"
@@ -65,7 +65,7 @@
 		  "color": "red"
 	  }
 	},
-	"list_4": {
+	{
 	  "item_1": {
 		  "amount": 5,
 		  "color": "red"
@@ -87,7 +87,7 @@
 		  "color": "red"
 	  }
 	},
-	"list_5": {
+	{
 	  "item_1": {
 		  "amount": 5,
 		  "color": "red"
@@ -109,4 +109,4 @@
 		  "color": "red"
 	  }
 	}
-}
+]
